@@ -1,0 +1,58 @@
+[
+    {
+        "brand": "Honda",
+        "model": "civic",
+        "year": "2020",
+        "fuel": "petrol",
+        "bodyType": "sidan",
+        "price": "33"
+    },
+    {
+        "brand": "toyota",
+        "model": "corola",
+        "year": "2018",
+        "fuel": "electric",
+        "bodyType": "Hatchback",
+        "price": "34"
+    },
+    {
+        "brand": "ford",
+        "model": "focus",
+        "year": "2019",
+        "fuel": "disel",
+        "bodyType": "Estate",
+        "price": "35"
+    },
+    {
+        "brand": "nisan",
+        "model": "almeria",
+        "year": "2019",
+        "fuel": "disel",
+        "bodyType": "SUV",
+        "price": "36"
+    },
+    {
+        "brand": "reno",
+        "model": "logan",
+        "year": "2019",
+        "fuel": "disel",
+        "bodyType": "MPV",
+        "price": "37"
+    },
+    {
+        "brand": "lada",
+        "model": "kalina",
+        "year": "2010",
+        "fuel": "disel",
+        "bodyType": "Pickup",
+        "price": "38"
+    },
+    {
+        "brand": "opel",
+        "model": "astra",
+        "year": "2019",
+        "fuel": "disel",
+        "bodyType": "Cabrio",
+        "price": "39"
+    }
+]
